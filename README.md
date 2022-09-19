@@ -14,7 +14,7 @@ Application de réduction de liens à but pédagogique pour la chaine YouTube [Y
 
 ### 🔥 Installer le projet en local
 
-Pour les phases de développement, nous utilisons un environnement mixte : Symfony CLI + PHP 7.4 + Docker + Docker-compose
+Pour les phases de développement, nous utilisons un environnement mixte : Symfony CLI + PHP 8.1 + Docker + Docker-compose
 
 ```bash
 composer install
