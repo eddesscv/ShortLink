@@ -9,7 +9,7 @@ Application de réduction de liens à but pédagogique pour la chaine YouTube [Y
 * [Symfony CLI](https://symfony.com/download)
 * [Docker](https://www.docker.com/)
 * [Docker-compose](https://docs.docker.com/compose/install/)
-* [PHP 7.4](https://www.php.net/downloads)
+* [PHP 8.1](https://www.php.net/downloads)
 * [Composer](https://getcomposer.org/)
 
 ### 🔥 Installer le projet en local
